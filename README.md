@@ -1,4 +1,5 @@
-# <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Brenno Trindade
+## Brenno Trindade
+
 
 **`Digital Craftsman (Developer/Stylist/Photographer)`**
 
@@ -27,15 +28,13 @@ I'm an indie full-stack developer creating my own digital universe little by lit
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<br />
 
-#
 
----
+## Vibing to 
 
-## 🎧 Vibing to
-
-[![Lofi](https://img.shields.io/badge/Lofi%20-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2lJplpx4PDkxeTwHi68IhM) [![Cute Songs](https://img.shields.io/badge/Cute%20Songs-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/15WPyTcy3r7frZMFjbwwgP) 
+[![Lofi](https://img.shields.io/badge/Lofi%20-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2lJplpx4PDkxeTwHi68IhM) [![Cute Songs](https://img.shields.io/badge/Cute%20Songs-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/15WPyTcy3r7frZMFjbwwgP) <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
 
 [![Spotify](https://spotifyliveplayer.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31gcoxb7omfh4zib5uhhmm6ek7z4)
 
