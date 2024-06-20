@@ -3,7 +3,30 @@
 
 **`Digital Craftsman (Developer/Stylist/Photographer)`**
 
-I'm an indie full-stack developer creating my own digital universe little by little. Every coding project is created from scratch; planning and designing to using code to address real-world issues.
+🤠 Hi, my name is Brenno
+
+I use to be a indie full-stack developer creating my own digital universe little by little. Every coding project is created from scratch; planning and designing to using code to address real-world issues. But here is what I am currently working on!
+
+🚀Super excited to share my current road map with you:
+
+1. I'm really getting into CTF, Python, and Linux - diving deep into each one!
+2. Starting off with the basics - CompTIA A+ and the Google Cybersecurity Professional Certificate.
+3. Moving onto security with CompTIA Security+.
+4. Delving into networking with CISCO CCNA.
+5. Ready to explore the world of hacking with PenTest+.
+6. Finally, aiming for the prestigious OSCP certification.
+
+I can't wait to learn and grow through this journey! Let's do this together! 
+
+🇧🇷 🗽 Brazilian Native living in NYC, I absolutely love coming up with fun and innovative ideas to help make everyday tasks easier!
+
+📈 I started my own company, RESOLVA, to help immigrants with their technology needs, whether they were using Mac OS or Windows OS. I offered advice on the importance of antivirus software, showed clients how to save money by optimizing their internet services, and taught them how to use operating systems and shortcuts to work more efficiently. I also became familiar with different printer setups to help them use their printers more effectively. This job required me to quickly learn about new technologies and explain complex information in a way that was easy for everyone to understand. Through RESOLVA, I was able to showcase my tech skills and dedication to helping others navigate technology with confidence.
+
+💻 I aspire to work as a Cyber Security Engineer at Google and eventually join the red team.
+
+🏓 When I'm not busy, I love to spend my free time playing table tennis and picking up new skills in pickleball! 
+
+💪🏽 Some of my strengths include Python, Artificial Intelligence, Presentation & Public Speaking, Competitor Research, Strategic Planning, and Market Research.
 
    <p align="left">
       <a href="https://github.com/brennotrindade?tab=repositories&sort=stargazers">
